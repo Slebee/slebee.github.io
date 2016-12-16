@@ -7,7 +7,7 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 # Author Info
 author_name:        "Runbin Liu"
 author_email:       365456507@qq.com
-author_gravatar:    "/assets" # Gravatar md5 hash
+author_gravatar:    "assets/avatar.jpg" # Gravatar md5 hash
 twitter_username:   slebee
 github_username:    slebee # GitHub username
 
